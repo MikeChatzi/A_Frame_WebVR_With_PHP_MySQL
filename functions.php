@@ -7,11 +7,8 @@ function inputFields($placeholder,$name,$value,$type){
 						<input type='$type' name='$name' placeholder='$placeholder'
 						 class=\"form-control\" value='$value' autocomplete='off'>
 					</div>
-	
-	";
+		";
 	echo $element;
 }
-
-
 
 ?>
