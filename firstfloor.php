@@ -728,7 +728,7 @@ ob_end_flush();
 			<a-entity light="type: directional; color: #ffff00; intensity: 0.5"> </a-entity>
 			 <a-entity light="type: ambient; color: #FFF; intensity: 0.9"> </a-entity> 
 
-			 <div id="userWindow" style="position:fixed; bottom:15px; left:15px; z-index:1000; border:1px solid black; padding:10px;">
+			 <div id="userWindow" style="position:fixed; bottom:60px; right:20px; z-index:1000; border:2px solid black; padding:8px;">
   <div>
     User: <?php echo (isset($_SESSION['userzname'])) ? $_SESSION['userzname'] : ''; ?>
   </div>
