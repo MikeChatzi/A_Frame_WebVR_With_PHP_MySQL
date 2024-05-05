@@ -575,7 +575,7 @@
 
 		<a-entity 
 					showtext
-					description="Mike24: Welcome to the Collaborative Expression Project! I am Mike and art is my passion! How about you? Fill up the form on the desk and let's connect!"
+					description="Mike24: Welcome to the Collaborative Expression Project! My name is Mike and art is my passion! What about you? Fill up the form on the desk and let's connect!"
 					position="-9.99 1.75 9">
 
 				<a-entity 
